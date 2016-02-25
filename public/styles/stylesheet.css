@@ -1,5 +1,41 @@
 body {
     text-align: center;
+    font-weight: 900;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    border-radius: 30px;
+    opacity: .7;
+}
+
+li {
+    list-style: none;
+}
+
+#midna-background {
+    background-image: url("http://wallpapercave.com/wp/QMFvpfJ.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #ab8a3e;
+}
+
+#korra-background {
+    background-image: url("http://i.imgur.com/mfQ16pN.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #613e10;
+    text-shadow: 1px 1px #5c8eb8;
+}
+
+#mononoke-background {
+    background-image: url("http://ideatube.science/wp/uQAhzMn.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: darkred;
+    text-shadow: 1px 1px #222;
 }
 
 #midna {
